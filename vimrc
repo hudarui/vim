@@ -91,3 +91,6 @@ set autoread
 " 如果行尾有多余的空格，让空格显示成可见的小方块
 set listchars=tab:»■,trail:■
 set list
+
+" 设置配色
+colorscheme molokai
