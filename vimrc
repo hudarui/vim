@@ -78,6 +78,7 @@ set noswapfile
 
 " 保留撤销历史
 set undofile
+set undodir=~/.vim/.undodir
 
 " 出错时不要发出响声
 set noerrorbells
