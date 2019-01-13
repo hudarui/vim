@@ -29,7 +29,7 @@ set autoindent
 set tabstop=2
 
 " 在文本上按下>>,<<,==(取消全部缩进)时，每一级的字符数
-set shiftwidth=4
+set shiftwidth=2
 
 " Tab转空格
 set expandtab
