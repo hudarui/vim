@@ -23,7 +23,7 @@ filetype indent on
 " 缩进
 "
 " 按下回车键后，下一行的缩进自动跟上上一行的缩进保持一致
-set autoindent 
+set autoindent
 
 " 按下Tab键时，Vim显示的空格数
 set tabstop=2
